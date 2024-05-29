@@ -1,4 +1,4 @@
-## Earthquake Damage Prediction using Machine Learning
+## Earthquake Building Damage Prediction using Machine Learning
 
 This project uses machine learning models to predict earthquake damage based on building characteristics. The primary models used include decision trees, random forests, and gradient boosting.
 
